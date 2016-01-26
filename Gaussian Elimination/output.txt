@@ -1,0 +1,23 @@
+The solution to the 2 by 2 matrix is: 
+x1 = 2.33333
+x2 = 1.33333
+
+The solution to the 3 by 3 matrix is: 
+x1 = 1
+x2 = -1
+x3 = -0
+
+The solution to the 3 by 3 matrix is: 
+x1 = 7
+x2 = -1
+x3 = 3
+
+The solution to the 5 by 5 matrix is: 
+There is no unique solution
+
+The solution to the 4 by 4 matrix is: 
+x1 = 7
+x2 = -2
+x3 = 3
+x4 = 4
+
