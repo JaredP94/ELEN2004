@@ -1,0 +1,15 @@
+Subtstring		No Found in myBFSearch		Time of myBFSearch		
+substring1              254                 0.001261
+substring2               15                 0.001244
+substring3               20                 0.001215
+substring4               25                  0.00127
+substring5                3                 0.001206
+
+Subtstring		No Found in CStringSearch		Time of CStringSearch		
+substring1              254                 0.000334
+substring2               15                 0.000344
+substring3               19                 0.000316
+substring4               25                 0.000346
+substring5                3                 0.000309
+
+ The third string is found a different amount of times in each method due to the fact that brute force accounts for overlapping occurances where as the c-string method does not allow for overlapping to occur is searching for the required string

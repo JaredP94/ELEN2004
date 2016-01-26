@@ -1,0 +1,56 @@
+Time taken to search for student ID using sequential search: 0.00000300 sec
+
+Time taken to search for student ID using binary search: 0.00000100sec
+
+Number of processed records: 85
+
+Student ID: 319560
+Surname: Butt
+First Name: James
+Mark: 56
+
+Student ID: 323438
+Surname: Darakjy
+First Name: Art
+Mark: 78
+
+Student ID: 367366
+Surname: Foller
+First Name: Donette
+Mark: 90
+
+Student ID: 367844
+Surname: Chanay
+First Name: Josephine
+Mark: 67
+
+Student ID: 381984
+Surname: Chemel
+First Name: Venere
+Mark: 43
+
+Student ID: 384005
+Surname: Lenna
+First Name: Paprocki
+Mark: 87
+
+Student ID: 386326
+Surname: Foller
+First Name: Donette
+Mark: 45
+
+Student ID: 400798
+Surname: Chapman
+First Name: Simona
+Mark: 45
+
+Student ID: 402362
+Surname: Morlong
+First Name: Mitsue
+Mark: 56
+
+Student ID: 438298
+Surname: Dilliard
+First Name: Leota
+Mark: 89
+
